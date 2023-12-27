@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just a guy trying to build cool and useful stuff.
+
 <!--
 **levelingup/levelingup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
